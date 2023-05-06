@@ -1,7 +1,7 @@
 # esp32-homekit-camera
 
 Firmware for esp32-camera module to act as Apple Homekit IP camera.
-
+Added PlatformIO support to [esp-homekit-camera] (https://github.com/maximkulkin/esp32-homekit-camera)
 Based on [esp-homekit](https://github.com/maximkulkin/esp-homekit).
 
 ## Prerequisites
